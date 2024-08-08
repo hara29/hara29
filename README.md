@@ -9,7 +9,7 @@ Currently, I am actively involved as a teaching assistant in computer courses at
 
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px"src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>
+  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>
   <br>
   <br>
   
