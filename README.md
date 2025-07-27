@@ -10,7 +10,7 @@ Currently, I am actively involved as a teaching assistant in computer courses at
 
 ### Tech Stack
   <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>
-  <a href="#"><img align="left" alt="Seaborn" title="Seaborn" width="21px" src="https://pypi-camo.freetls.fastly.net/189c5d99fbda79b2218f2d4a4fe29415d32c8d8a/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d7761736b6f6d2f736561626f726e2f6d61737465722f646f632f5f7374617469632f6c6f676f2d776964652d6c6967687462672e737667" /></a>
+  <a href="#"><img align="left" alt="Seaborn" title="Seaborn" width="21px" src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" /></a>
   <a href="#"><img align="left" alt="Numpy" title="Numpy" width="21px" src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" /></a>
   <a href="#"><img align="left" alt="Tensorflow" title="Tensorflow" width="21px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" /></a>
   <br>
